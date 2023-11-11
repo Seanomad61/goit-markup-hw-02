@@ -130,3 +130,8 @@ li {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
+.all-right-text {
+  line-height: 1.5px;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
