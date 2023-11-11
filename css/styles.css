@@ -108,6 +108,7 @@ li {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
+  background-color: #ffffff;
 }
 /* our-team */
 .our-team {
@@ -134,7 +135,4 @@ li {
   color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-.list-text {
-  background-color: #ffffff;
 }
